@@ -1,3 +1,7 @@
+自用，[原项目传送门](https://github.com/jynew/jynew)
+
+突然发现似乎lua脚本用的地方挺多？在另一个地方也看到用了lua
+
 # 群侠传，启动！
 
 ![主宣传图](https://user-images.githubusercontent.com/7448857/192084760-017f3789-81ff-4a67-81bf-8d8c4df1cac5.png)
